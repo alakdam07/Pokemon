@@ -37,8 +37,9 @@
 
 Alak Dam
 
-Website: [alakdam](http://www.alakdam.com/)
-Linkedin: [linkedin/alak](https://www.linkedin.com/in/alak-dam-752890115/)
+Website: [alakdam](http://www.alakdam.com/).
+
+Linkedin: [linkedin/alak](https://www.linkedin.com/in/alak-dam-752890115/).
 
 ## License
 
