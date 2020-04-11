@@ -9,7 +9,7 @@
   />
 </div>
 
-### User can see Pokemon's name and other details
+### User can see Pokemon's name and other details. User also see the dark mood version.
 
 ### Data fetched from [Pokemon Api](https://pokeapi.co/api/v2/pokemon)
 
@@ -25,6 +25,7 @@
   - [x] Use hooks
   - [x] Fetch data
   - [x] Shows data to the browser
+  - [x] Dark mode setup
 - [x] Serverless setup
 
   - [x] Create s3 bucket
@@ -32,12 +33,20 @@
   - [x] Deploy to s3 bucket
   - [x] App launched: [Pokemon](http://serverless-app20.s3-website-us-east-1.amazonaws.com/)
 
-### Design
+## Author
 
-Collected from third party.
+Alak Dam
+
+Website: [alakdam](http://www.alakdam.com/)
+Linkedin: [linkedin/alak](https://www.linkedin.com/in/alak-dam-752890115/)
+
+## License
+
+Copyright © 2020, [Alak Dam](https://github.com/alakdam07).
 
 ## Tech information
 
-| Tech  | Version |
-| ----- | ------- |
-| React | 16.9.0  |
+| Tech               | Version |
+| ------------------ | ------- |
+| React              | 16.9.0  |
+| react-helmet-async | 1.0.4   |
